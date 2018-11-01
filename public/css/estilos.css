@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29-oct-2018, 23:07:22
+    Author     : ViktorPerez
+*/
+
+.modal-content{
+    border-radius: 0px !important;
+}
+
+.floating-label-form-group-sm {
+  font-size: 14px;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #dee2e6;
+}
+.floating-label-form-group-sm input,
+.floating-label-form-group-sm textarea {
+  font-size: 1em;
+  position: relative;
+  z-index: 1;
+  padding: 0;
+  resize: none;
+  border: none;
+  border-radius: 0;
+  background: none;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+
+.liked_div{
+    text-align: right;
+}
+.liked_div a{
+    text-decoration: none;
+    margin-left: 1em;
+    color: #0085a1;
+}
+.liked_p{
+    font-size: 0.8em;
+    text-align: right;
+}
+.liked_p span{
+    margin-left: 1em;
+}
+.img-post{
+    float: right; border-radius: 50%;height: 150px;
+}
+.img-posts{
+    border-radius: 50%;height: 60px;margin-left: 20px;
+}
